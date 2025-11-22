@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""
+
 biosample_filter.py
 Author: Lydia Picariello
 Course: BIN 601 Final Project
